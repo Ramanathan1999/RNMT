@@ -9,3 +9,5 @@ Team members:
 * Parth Rajwade:	prajwade@andrew.cmu.edu
 
 The two folders contain the respective notebooks for ablations presented in the final report.
+
+YouTube link for project presentation: https://www.youtube.com/watch?v=UbaN6vwvGl4
